@@ -5,5 +5,6 @@
 *  🚀 I'm currently working on My Personal Projects
 *  🤝  Open to collaborate on Interesting Projects
 *  ✉️ You can contact me at [Mail](siddhantpathak1207@gmail.com)
-*  🌱 Currently working on :  
+*  🌱 Currently working on :
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,php,django,flask,mysql,mongodb,express,react,nodejs,nextjs,redux,)]
